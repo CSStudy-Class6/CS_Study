@@ -1,2 +1,25 @@
 # CS_Study
-CS 스터디 
+
+## Computer Science
+- 컴퓨터 구조 (Architecture)
+- 자료 구조 (Data Structure)
+- 데이터베이스 (DB)
+- 네트워크 (Network)
+- 운영체제 (Operating System)
+- 소프트웨어 방법론
+  - 디자인 패턴
+  - 설계 
+  
+## Web
+
+## Spring Framework
+
+## 프로그래밍 언어 (Programming Language)
+  - C / C++
+  - Java
+  - JavaScript
+  - Python
+
+## Git, VCS
+  
+## 알고리즘
