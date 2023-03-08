@@ -6,10 +6,11 @@
 - 데이터베이스 (DB)
 - 네트워크 (Network)
 - 운영체제 (Operating System)
-- 소프트웨어 방법론
-  - 디자인 패턴
-  - 설계 
-  
+
+## 소프트웨어 공학
+- 소프트웨어 개발 방법론
+- 디자인패턴
+
 ## Web
 
 ## Spring Framework
